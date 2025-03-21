@@ -1,3 +1,6 @@
+
+El texto pertenece a otra rama
+
 hola abdiel 
 q tal estas we 
 estoy entoy cesped nevercraked
@@ -7,6 +10,8 @@ Algoritmo Calculadora_Area_Nieve
 	Leer R
 	Escribir "Introduce hipotenusa del triángulo: "
 	Leer H
+	Escribir "Introduce nombre: "
+	Leer N
 	
 	Area_Circulo = ((R * R) * 3.1416)/4
 	Altura = raiz((H * H) - (R * R))
