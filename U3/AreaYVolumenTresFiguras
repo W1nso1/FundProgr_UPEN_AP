@@ -1,0 +1,82 @@
+//Diseña un algoritmo que emplee subprogramas / funciones / subprocesos, para calcular el área y volumen de 3 figuras geométricas diferentes. 
+//El usuario debe poder elegir cuál figura desea calcular y mostrar sus resultados, el programa debe poder repetirse si el usuario lo desea y elegir otra opción.
+
+SubProceso PirámideCuadrada(T)
+	Escribir "Introduzca la medida de un lado inferior de la pirámide en centímetros (Asegúrese de que todos los lados inferiores tengan la misma medida): "
+	Leer Lado
+	Escribir "Introduzca la altura en centímetros: "
+	Leer  Altura
+	
+	Apotema = 0
+	Apotema = Lado / 2
+	AreaBase = Lado * Lado
+	
+	Area = AreaBase + (((Lado * Altura ) / 2) * 6)
+	Volumen = ((Lado * Lado) * Altura) / 3
+	
+FinSubProceso 
+
+SubProceso Cubo(Cu)
+	Escribir "Introduzca la medida de un lado en centímetros "
+	Escribir "(asegúrese de que todos tengan las mismas dimensiones): "
+	Leer Lado
+	Area = (Lado * Lado) * 6
+	Volumen = Lado * Lado * Lado
+	
+	Escribir "El cubo cuenta con un area de " Area "cm² y un volumen de " Volumen "cm³."
+FinSubProceso
+
+SubProceso Cilindro(Ci)
+	Escribir "Introduzca el radio en centímetros: "
+	Leer Radio
+	Escribir "Introduzca la altura en centímetros: "
+	Leer Altura
+	
+	AreaBase = (Radio * Radio) * 3.1416
+	
+	Area = (AreaBase * 2) + ((Radio * 2) * Altura) 
+	Volumen = AreaBase * Altura
+	
+	Escribir "El cilindro cuenta con un area de " Area "cm² y un volumen de " Volumen "Cm³."
+FinSubProceso
+
+Algoritmo Areas_Tres_Figuras
+	Rpeat = "si"
+	Escribir "============================================="
+	Mientras Rpeat = "si" Hacer
+		
+		Area = 0
+		Volumen = 0
+		Radio = 0
+		Altura = 0
+		Lado = 0
+		AreaBase = 0
+		
+		Escribir "Bienvenido a su calculadora de área y volumen"
+		Escribir "Para elegir la figura a medir, introduzca piramide/cubo/cilindro"
+		Escribir "en minúsculas, sin acentos y limitado a una sola figura: "
+		Leer Choice
+		Si Choice = "piramide" Entonces
+			PirámideCuadrada(x)
+		SiNo
+			Si Choice = "cubo" Entonces
+				Cubo(X)
+			SiNo
+				Si Choice = "cilindro" Entonces
+					Cilindro(x)
+				SiNo
+					Escribir "Asegúrese de escribir correctamente la instrucción."
+					Escribir "Sin acentos y en minusculas"
+				Fin Si
+			Fin Si
+		Fin Si
+		
+		Escribir ""
+		Escribir "============================================="
+		Escribir ""
+		Escribir "¿Desea repetir el algoritmo?"
+		Escribir "(si/no sin uso de acentos y en minúsuculas)"
+		Leer Rpeat
+		Escribir ""
+	Fin Mientras
+FinAlgoritmo
