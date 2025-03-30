@@ -21,7 +21,8 @@ $${\color{slateblue}Aquí \space tratamos \space los \space temas \space de \spa
 $${\color{slateblue}aunque \space sean \space asuntos \space que \space puedan \space parecer \space nimiedades \space es \space importante \space practicar \space su \space alcance \space y \space limitantes.}$$
 
 ## $${\color{slateblue}Unidad \space 3}$$ [ 🔗 ](https://github.com/W1nso1/FundProgr_UPEN_AP/tree/main/U3)
-
+$${\color{slateblue}Esta \space unidad \space estuvo \space basada \space en \space el \space adquirir \space conocimientos \space del \space uso \space de \space GitHub \space debido \space a \space su \space increible \space utilidad.}$$
+$${\color{slateblue}Es \space esta \space unidad \space donde \space éste \space repositorio \space vería \space su \space nacimiento.}$$
 
 Brief description of the unit: in this unit concepts such as ...
 
