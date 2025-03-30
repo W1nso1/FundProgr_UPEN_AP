@@ -25,9 +25,10 @@ $${\color{slateblue}Esta \space unidad \space sirvió \space para \space conocer
 $${\color{slateblue}básica \space para \space lidiar \space con \space problemas \space de \space relativa \space sencillez, \space aquí \space el \space programa \space PSeInt \space dejó \space de \space ser.}$$
 $${\color{slateblue}desconocido \space para \space nosotros.}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
-
-
-
+$${\color{slateblue}}$$
+$${\color{slateblue}}$$
+$${\color{slateblue}}$$
+$${\color{slateblue}}$$
 
 # $${\color{slateblue}Unidad \space 2}$$ [ 🔗 ](https://github.com/W1nso1/FundProgr_UPEN_AP/tree/main/U2)
 
