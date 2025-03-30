@@ -1,4 +1,4 @@
-# $${\color{purple}FUNDAMENTOS \space \color{lightblue}DE \space \color{lightgreen}PROGRAMACIÓN}$$ :
+# $${\color{purple}FUNDAMENTOS \space \color{purple}DE \space \color{purple}PROGRAMACIÓN}$$
 
 	
 
