@@ -1,7 +1,7 @@
 # $${\color{slateblue}FUNDAMENTOS \space DE \space PROGRAMACIÓN}$$
 
 <p align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2023/03/icegif-777.gif" />
+  <img src="https://www.gifcen.com/wp-content/uploads/2023/07/neon-gif-6.gif" />
 </p>
 
 $${\color{slateblue}FUNDAMENTOS \space DE \space PROGRAMACIÓN}$$
