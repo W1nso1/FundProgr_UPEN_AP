@@ -1,11 +1,11 @@
 # $${\color{purple}FUNDAMENTOS \space \color{purple}DE \space \color{purple}PROGRAMACIÓN}$$
 
-	
-
-
 Cover as image
-Fundamentos de Programación
-Full name:
+
+## $${\color{purple}FUNDAMENTOS \space \color{purple}DE \space \color{purple}PROGRAMACIÓN}$$
+
+## $${\color{purple}Abdiel \space \color{purple}Josue \space \color{purple}Pacheco \space \color{purple}Robles}$$
+
 Career:
 Four-month period:
 University:
