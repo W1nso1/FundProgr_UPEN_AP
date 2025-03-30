@@ -12,6 +12,9 @@ $${\color{purple}Enero \space \color{purple}- \space \color{purple}Abril \space 
 
 $${\color{purple}Universidad \space \color{purple}Politécnica \space \color{purple}Del \space \color{purple}Estado \space \color{purple}De \space \color{purple}Nayarit}$$
 
+$${\color{purple}Los \space fundamentos \space de \space la \space programación \space nos \space ayudan \space a \space fomentar \space la \space buena \space praxis \space y \space conocer \space aquello \space que \space es \space necesario \space para \space lidiar \space materias \space más \space avanzadas.}$$
+
+
 #
 
 Four-month period:
