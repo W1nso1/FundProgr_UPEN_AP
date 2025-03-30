@@ -12,7 +12,10 @@ $${\color{purple}Enero \space - \space Abril \space // \space Primer \space Cuat
 
 $${\color{purple}Universidad \space Politécnica \space Del \space Estado \space De \space Nayarit}$$
 
-$${\color{purple}Los \space fundamentos \space de \space la \space programación \space nos \space ayudan \space a \space fomentar \space la \space buena \space praxis \\ y \space conocer \space aquello \space que \space es \space necesario \space para \space lidiar \space materias \space más \space avanzadas.}$$
+$$
+\text{\color{purple}{Los fundamentos de la programación nos ayudan a fomentar la buena praxis.  }} \\
+\text{\color{purple}{Y conocer aquello que es necesario para lidiar materias más avanzadas.}}
+$$
 
 
 #
