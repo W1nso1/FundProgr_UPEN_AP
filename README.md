@@ -30,5 +30,5 @@ $${\color{slateblue}Esta \space unidad \space estuvo \space basada \space en \sp
 $${\color{slateblue}Es \space esta \space unidad \space donde \space éste \space repositorio \space vería \space su \space nacimiento.}$$
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/rC1vAt-kMCoAAAAd/line-neon.gif" />
+  <img src="https://64.media.tumblr.com/a954ff6b2d8742d0c53f2d2c5d4ebfc0/de79baa0a4f7ad1d-63/s1280x1920/ed64d76e06a2df16c34fa149eb5f7f5caed76fea.gifv" />
 </p>
