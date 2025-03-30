@@ -1,6 +1,5 @@
 # $${\color{slateblue}FUNDAMENTOS \space DE \space PROGRAMACIÓN}$$
 
-![alt text](https://media1.tenor.com/m/enLBClxEcWMAAAAC/spongebob-technology.gif)
 <p align="center">
   <img src="https://media1.tenor.com/m/enLBClxEcWMAAAAC/spongebob-technology.gif" />
 </p>
