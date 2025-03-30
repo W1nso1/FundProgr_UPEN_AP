@@ -18,11 +18,9 @@ $${\color{slateblue}⚠El \space símbolo \space de \space eslabón \space (🔗
   <img src="https://64.media.tumblr.com/29c2300112f418abf48aed3eecfbca67/28464d141a2152c3-0d/s1280x1920/29012ceab8b0f29fe33ca5f1639397cabca0ed23.gifv" />
 </p>
 
-  [![X Follow](https://img.shields.io/static/v1?label=talk&message=3k&color=blue&logo=twitter&style=for-the-badge)](https://x.com/ccostan)
-
 
 # $${\color{slateblue}Unidad \space 1}$$ [ 🔗 ](https://github.com/W1nso1/FundProgr_UPEN_AP/tree/main/U1%20)
-
+##
 $${\color{slateblue}Esta \space unidad \space sirvió \space para \space conocer \space y \space aplicar \space lo \space que \space es \space un \space algoritmo,\space además \space de \space utilizar \space matemática}$$
 $${\color{slateblue}básica \space para \space lidiar \space con \space problemas \space de \space relativa \space sencillez, \space aquí \space el \space programa \space PSeInt \space dejó \space de \space ser.}$$
 $${\color{slateblue}desconocido \space para \space nosotros.}$$
