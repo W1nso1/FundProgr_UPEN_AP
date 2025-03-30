@@ -17,9 +17,9 @@ $${\color{slateblue}⚠El \space símbolo \space de \space eslabón \space (🔗
 <p align="center">
   <img src="" />
 </p>
-<p align="center">
+
   [![X Follow](https://img.shields.io/static/v1?label=talk&message=3k&color=blue&logo=twitter&style=for-the-badge)](https://x.com/ccostan)
-</p>
+
 
 # $${\color{slateblue}Unidad \space 1}$$ [ 🔗 ](https://github.com/W1nso1/FundProgr_UPEN_AP/tree/main/U1%20)
 ##
@@ -43,7 +43,8 @@ $${\color{slateblue}Es \space esta \space unidad \space donde \space éste \spac
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/db0748x-9fcb8587-a61b-4a2e-b440-5d0de36e7a26.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmMjgzNmNiLTU4OTMtNGE2Yy1iMTU2LTVhODlkOTRmYzcyMVwvZGIwNzQ4eC05ZmNiODU4Ny1hNjFiLTRhMmUtYjQ0MC01ZDBkZTM2ZTdhMjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Mv1MCMhq82G6jmVgNp-A7S9sKfmy1ZzaTM5IeXu-SkY" />
 </p>
 
-$${\color{slateblue} \textbf Personalmente \space creo \space que \space la \space materia \space fue \space llevadera, \space las \space actividades \space siguieron \space un \space orden \space lógico.}$$
+# $${\color{slateblue}Opinión \space Personal \space de \space la \space Clase}$$
+$${\color{slateblue} \textbf Siento \space que \space la \space materia \space fue \space llevadera, \space las \space actividades \space siguieron \space un \space orden \space lógico.}$$
 $${\color{slateblue}Entonces \space mi  \space único \space deseo \space habría \space sido \space tener \space muchas \space más \space horas \space para \space abarcar \space más \space temas \space y \space expandir \space el \space repositorio.}$$
 
 <p align="center">
