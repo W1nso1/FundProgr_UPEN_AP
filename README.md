@@ -1,4 +1,4 @@
-# <code style="color : name_color">FUNDAMENTOS DE PROGRAMACION</code> 
+# <code style="color : magenta">FUNDAMENTOS DE PROGRAMACION</code> 
 
 Cover as image
 Fundamentos de Programación
