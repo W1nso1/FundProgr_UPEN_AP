@@ -41,5 +41,5 @@ $${\color{slateblue} \textbf Personalmente \space creo \space que \space la \spa
 $${\color{slateblue}Entonces \space mi  \space único \space deseo \space habría \space sido \space tener \space muchas \space más \space horas \space para \space abarcar \space más \space temas \space y \space expandir \space el \space repositorio.}$$
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/79/60/a9/7960a9c08289dda172e8c8ebc5c1d383.gif" />
+  <img src="https://i.pinimg.com/736x/66/5c/67/665c67b67818fedeae9f0c7eb0c9882b.jpg" />
 </p>
