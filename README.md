@@ -4,7 +4,7 @@
   <img src="https://www.gifcen.com/wp-content/uploads/2023/07/neon-gif-6.gif" />
 </p>
 
-$${\color{slateblue}FUNDAMENTOS \space DE \space PROGRAMACIÓN}$$
+// $${\color{slateblue}FUNDAMENTOS \space DE \space PROGRAMACIÓN}$$
 $${\color{slateblue}Abdiel \space Josue \space Pacheco \space Robles}$$
 $${\color{slateblue}Ingeniería \space en \space Tecnologías \space de \space la \space Información \space e \space Innovación \space Digital}$$
 $${\color{slateblue}Enero \space - \space Abril \space // \space Primer \space Cuatrimestre}$$
