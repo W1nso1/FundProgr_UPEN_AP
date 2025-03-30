@@ -1,8 +1,9 @@
 # $${\color{slateblue}FUNDAMENTOS \space DE \space PROGRAMACIÓN}$$
 
 ![alt text](https://media1.tenor.com/m/enLBClxEcWMAAAAC/spongebob-technology.gif)
-
-[Cover as image]()
+<p align="center">
+  <img src="https://media1.tenor.com/m/enLBClxEcWMAAAAC/spongebob-technology.gif" />
+</p>
 
 $${\color{slateblue}FUNDAMENTOS \space DE \space PROGRAMACIÓN}$$
 $${\color{slateblue}Abdiel \space Josue \space Pacheco \space Robles}$$
