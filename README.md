@@ -40,3 +40,7 @@ $${\color{slateblue}Es \space esta \space unidad \space donde \space éste \spac
 
 $${\color{slateblue} \textbf Personalmente \space creo \space que \space la \space materia \space fue \space llevadera, \space las \space actividades \space siguieron \space un \space orden \space lógico.}$$
 $${\color{slateblue}Entonces \space mi  \space único \space deseo \space habría \space sido \space tener \space muchas \space más \space horas \space para \space abarcar \space más \space temas \space y \space expandir \space el \space repositorio.}$$
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/79/60/a9/7960a9c08289dda172e8c8ebc5c1d383.gif" />
+</p>
