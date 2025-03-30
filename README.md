@@ -16,7 +16,7 @@ $${\color{slateblue}y \space conocer \space aquello \space que \space es \space 
 $${\color{slateblue}⚠El \space símbolo \space de \space eslabón \space (🔗) \space debe \space llevarle \space a \space la \space respectiva \space carpeta⚠}$$
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/24/76/55/24765528562887702b42c097ea57bc1c.gif" />
+  <img src="https://i.pinimg.com/originals/79/60/a9/7960a9c08289dda172e8c8ebc5c1d383.gif" />
 </p>
 
 # $${\color{slateblue}Unidad \space 1}$$ [ 🔗 ](https://github.com/W1nso1/FundProgr_UPEN_AP/tree/main/U1%20)
