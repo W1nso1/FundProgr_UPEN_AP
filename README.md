@@ -36,4 +36,4 @@ $${\color{slateblue}Es \space esta \space unidad \space donde \space éste \spac
 </p>
 
 $${\color{slateblue} \textbf Personalmente \space creo \space que \space la \space materia \space fue \space llevadera, \space las \space actividades \space siguieron \space un \space orden \space lógico.}$$
-$${\color{slateblue}Entonces \space mi  \space único \space deseo \space habría \space sido \space tener \space muchas \space más \space horas \space para \space abarcar \space más \space temas y \space expandir \space el \space repositorio.}$$
+$${\color{slateblue}Entonces \space mi  \space único \space deseo \space habría \space sido \space tener \space muchas \space más \space horas \space para \space abarcar \space más \space temas \space y \space expandir \space el \space repositorio.}$$
