@@ -1,4 +1,4 @@
-# <code style= "color: FFD700"> FUNDAMENTOS DE PROGRAMACION </code> 
+# <code style= "color: purple"> FUNDAMENTOS DE PROGRAMACION </code> 
 
 Cover as image
 Fundamentos de Programación
