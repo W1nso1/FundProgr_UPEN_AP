@@ -1,7 +1,7 @@
 # $${\color{slateblue}FUNDAMENTOS \space DE \space PROGRAMACIÓN}$$
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/enLBClxEcWMAAAAC/spongebob-technology.gif" />
+  <img src="https://www.icegif.com/wp-content/uploads/2023/03/icegif-777.gif" />
 </p>
 
 $${\color{slateblue}FUNDAMENTOS \space DE \space PROGRAMACIÓN}$$
