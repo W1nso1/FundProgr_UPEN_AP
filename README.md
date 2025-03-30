@@ -14,7 +14,8 @@ $${\color{slateblue}y \space conocer \space aquello \space que \space es \space 
 
 # $${\color{slateblue}Unidad \space 1}$$ [ 🔗 ](https://github.com/W1nso1/FundProgr_UPEN_AP/tree/main/U1%20)
 $${\color{slateblue}Esta \space unidad \space sirvió \space para \space conocer \space y \space aplicar \space lo \space que \space es \space un \space algoritmo,\space además \space de \space utilizar \space matemática}$$
-$${\color{slateblue}básica \space para \space lidiar \space con \space problemas de \space relativa \space sencillez, \space aquí \space el \space programa \space PSeInt \space dejó \space de \space ser \space desconocido \space para \space nosotros.}$$
+$${\color{slateblue}básica \space para \space lidiar \space con \space problemas \space de \space relativa \space sencillez, \space aquí \space el \space programa \space PSeInt \space dejó \space de \space ser.}$$
+$${\color{slateblue}desconocido \space para \space nosotros.}$$
 # 
 # $${\color{slateblue}Unidad \space 2}$$ [ 🔗 ](https://github.com/W1nso1/FundProgr_UPEN_AP/tree/main/U2)
 $${\color{slateblue}Aquí \space tratamos \space los \space temas \space de \space FOR, \space IF \space Y \space WHILE \space como \space parte \space de \space nuestro \space aprendizaje \space dentro \space de \space la \space carrera \space de \space ITIID,.}$$
