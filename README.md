@@ -1,4 +1,6 @@
-# $${\color{purple}Fundamentos de Programación}$$	
+# $${\color{purple}FUNDAMENTOS \space \color{lightblue}DE \space \color{lightgreen}PROGRAMACIÓN}$$ :
+
+	
 
 
 Cover as image
