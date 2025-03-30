@@ -8,7 +8,8 @@ $${\color{purple}Abdiel \space \color{purple}Josue \space \color{purple}Pacheco 
 
 $${\color{purple}Ingeniería \space \color{purple}en \space \color{purple}Tecnologías \space \color{purple}de \space \color{purple}la \space \color{purple}Información \space \color{purple}e \space \color{purple}Innovación \space \color{purple}Digital}$$
 
- Ingeniería en Tecnologías de la Información e Innovación Digital
+$${\color{purple}Enero \space \color{purple}- \space \color{purple}Abril \space \color{purple}Primer \space \color{purple}Cuatrimestre}$$
+
 Four-month period:
 University:
 
