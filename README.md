@@ -1,4 +1,4 @@
-#Fundamentos de Programación $${\color{green}Green}$$	
+# Fundamentos de Programación $${\color{purple}Green}$$	
 
 
 Cover as image
