@@ -10,8 +10,8 @@ $${\color{slateblue}Ingeniería \space en \space Tecnologías \space de \space l
 $${\color{slateblue}Enero \space - \space Abril \space // \space Primer \space Cuatrimestre}$$
 $${\color{slateblue}Universidad \space Politécnica \space Del \space Estado \space De \space Nayarit}$$
 
-$${\color{slateblue}Los \space fundamentos \space de \space la \space programación \space nos \space ayudan \space a \space fomentar \space la \space buena \space praxis}$$
-$${\color{slateblue}y \space conocer \space aquello \space que \space es \space necesario \space para \space lidiar \space materias \space más \space avanzadas.}$$
+$${\color{slateblue}Los \space fundamentos \space de \space la \space programación \space nos \space ayudan \space a \space acostumbrarnos \space a \space la \space buena \space praxis}$$
+$${\color{slateblue}y \space conocer \space aquello \space que \space es \space necesario \space para \space lidiar \space con \space materias \space más \space avanzadas.}$$
 
 $${\color{slateblue}⚠El \space símbolo \space de \space eslabón \space (🔗) \space debe \space llevarle \space a \space la \space respectiva \space carpeta⚠}$$
 #
