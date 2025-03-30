@@ -40,7 +40,7 @@ $${\color{slateblue}Esta \space unidad \space estuvo \space basada \space en \sp
 $${\color{slateblue}Es \space esta \space unidad \space donde \space éste \space repositorio \space vería \space su \space nacimiento.}$$
   
 <p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/db0748x-9fcb8587-a61b-4a2e-b440-5d0de36e7a26.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmMjgzNmNiLTU4OTMtNGE2Yy1iMTU2LTVhODlkOTRmYzcyMVwvZGIwNzQ4eC05ZmNiODU4Ny1hNjFiLTRhMmUtYjQ0MC01ZDBkZTM2ZTdhMjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Mv1MCMhq82G6jmVgNp-A7S9sKfmy1ZzaTM5IeXu-SkY" />
+  <img src="https://64.media.tumblr.com/29c2300112f418abf48aed3eecfbca67/28464d141a2152c3-0d/s1280x1920/29012ceab8b0f29fe33ca5f1639397cabca0ed23.gifv" />
 </p>
 
 # $${\color{slateblue}Opinión \space Personal \space de \space la \space Clase}$$
