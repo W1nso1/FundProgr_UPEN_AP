@@ -12,6 +12,8 @@ $${\color{purple}Enero \space - \space Abril \space // \space Primer \space Cuat
 
 $${\color{purple}Universidad \space Politécnica \space Del \space Estado \space De \space Nayarit}$$
 
+#
+
 <p style="color: purple;">
   Los fundamentos de la programación nos ayudan a fomentar la buena praxis.<br>
   Y conocer aquello que es necesario para lidiar materias más avanzadas.
