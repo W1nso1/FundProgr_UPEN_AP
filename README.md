@@ -18,7 +18,7 @@ $${\color{slateblue}⚠El \space símbolo \space de \space eslabón \space (🔗
   <img src="https://64.media.tumblr.com/29c2300112f418abf48aed3eecfbca67/28464d141a2152c3-0d/s1280x1920/29012ceab8b0f29fe33ca5f1639397cabca0ed23.gifv" />
 </p>
 
-
+##
 # $${\color{slateblue}Unidad \space 1}$$ [ 🔗 ](https://github.com/W1nso1/FundProgr_UPEN_AP/tree/main/U1%20)
 ##
 $${\color{slateblue}Esta \space unidad \space sirvió \space para \space conocer \space y \space aplicar \space lo \space que \space es \space un \space algoritmo,\space además \space de \space utilizar \space matemática}$$
@@ -38,6 +38,7 @@ $${\color{slateblue}Esta \space unidad \space estuvo \space basada \space en \sp
 $${\color{slateblue}Es \space esta \space unidad \space donde \space éste \space repositorio \space vería \space su \space nacimiento.}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
 
+##
 <p align="center">
   <img src="https://64.media.tumblr.com/29c2300112f418abf48aed3eecfbca67/28464d141a2152c3-0d/s1280x1920/29012ceab8b0f29fe33ca5f1639397cabca0ed23.gifv" />
 </p>
