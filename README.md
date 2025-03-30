@@ -2,7 +2,7 @@
 
 Cover as image
 
-## $${\color{purple}FUNDAMENTOS \space \color{purple}DE \space \color{purple}PROGRAMACIÓN}$$
+$${\color{purple}FUNDAMENTOS \space \color{purple}DE \space \color{purple}PROGRAMACIÓN}$$
 
 ## $${\color{purple}Abdiel \space \color{purple}Josue \space \color{purple}Pacheco \space \color{purple}Robles}$$
 
