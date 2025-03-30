@@ -1,6 +1,8 @@
 # $${\color{slateblue}FUNDAMENTOS \space DE \space PROGRAMACIÓN}$$
 
-[Cover as image](https://media1.tenor.com/m/enLBClxEcWMAAAAC/spongebob-technology.gif)
+![alt text](https://media1.tenor.com/m/enLBClxEcWMAAAAC/spongebob-technology.gif)
+
+[Cover as image]()
 
 $${\color{slateblue}FUNDAMENTOS \space DE \space PROGRAMACIÓN}$$
 $${\color{slateblue}Abdiel \space Josue \space Pacheco \space Robles}$$
