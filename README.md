@@ -28,6 +28,11 @@ $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 
 # $${\color{slateblue}Unidad \space 2}$$ [ 🔗 ](https://github.com/W1nso1/FundProgr_UPEN_AP/tree/main/U2)
 
+
+
+
+
+
 $${\color{slateblue}Aquí \space tratamos \space los \space temas \space de \space FOR, \space IF \space Y \space WHILE \space como \space parte \space de \space nuestro \space aprendizaje \space dentro \space de \space la \space carrera \space de \space ITIID,}$$
 $${\color{slateblue}aunque \space sean \space asuntos \space que \space puedan \space parecer \space nimiedades \space es \space importante \space practicar \space su \space alcance \space y \space limitantes.}$$
 $${\color{slateblue}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
