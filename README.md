@@ -18,6 +18,7 @@ $${\color{slateblue}⚠El \space símbolo \space de \space eslabón \space (🔗
   <img src="" />
 </p>
 
+[![X Follow](https://img.shields.io/static/v1?label=talk&message=3k&color=blue&logo=twitter&style=for-the-badge)](https://x.com/ccostan)
 
 
 # $${\color{slateblue}Unidad \space 1}$$ [ 🔗 ](https://github.com/W1nso1/FundProgr_UPEN_AP/tree/main/U1%20)
