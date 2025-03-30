@@ -15,7 +15,7 @@ $${\color{slateblue}y \space conocer \space aquello \space que \space es \space 
 $${\color{slateblue}⚠El \space símbolo \space de \space eslabón \space (🔗) \space debe \space llevarle \space a \space la \space respectiva \space carpeta⚠}$$
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/e8/d9/21/e8d921a629b0695f85e8d701055fdd22.jpg" />
+  <img src="" />
 </p>
 
 
