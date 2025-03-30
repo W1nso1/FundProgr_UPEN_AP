@@ -1,7 +1,7 @@
-# FUNDAMENTOS DE PROGRAMACION
+# <code style="color : name_color">FUNDAMENTOS DE PROGRAMACION</code> 
 
 Cover as image
-Subject:
+Fundamentos de Programación
 Full name:
 Career:
 Four-month period:
