@@ -12,7 +12,8 @@ $${\color{slateblue}Los \space fundamentos \space de \space la \space programaci
 $${\color{slateblue}y \space conocer \space aquello \space que \space es \space necesario \space para \space lidiar \space materias \space más \space avanzadas.}$$
 
 ## $${\color{slateblue}Unidad \space 1}$$ [ 🔗 ](https://github.com/W1nso1/FundProgr_UPEN_AP/tree/main/U1%20)
-$${\color{slateblue}Esta \space unidad \space sirvió \space para \space conocer \space y \space aplicar \space lo \space que \space es \space un \space algoritmo,\space además \space de \space utilizar \space matemática \space básica \space para \space lidiar \space con \space problemas \space de \space relativa \space sencillez, \space aquí \space el \space programa \space PSeInt \space dejó \space de \space ser \space desconocido \space para \space nosotros.}$$
+$${\color{slateblue}Esta \space unidad \space sirvió \space para \space conocer \space y \space aplicar \space lo \space que \space es \space un \space algoritmo,\space además \space de \space utilizar \space matemática \space básica \space para \space lidiar \space con \space problemas}$$
+$${\color{slateblue}de \space relativa \space sencillez, \space aquí \space el \space programa \space PSeInt \space dejó \space de \space ser \space desconocido \space para \space nosotros.}$$
 
 
 Esta unidad sirvió para conocer y aplicar lo que es un algoritmo, además de utiliar matemática básica para lidiar con problemas de relativa sencillez,
