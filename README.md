@@ -1,6 +1,6 @@
 # $${\color{slateblue}FUNDAMENTOS \space DE \space PROGRAMACIÓN}$$
 
-Cover as image
+[Cover as image](https://media1.tenor.com/m/enLBClxEcWMAAAAC/spongebob-technology.gif)
 
 $${\color{slateblue}FUNDAMENTOS \space DE \space PROGRAMACIÓN}$$
 $${\color{slateblue}Abdiel \space Josue \space Pacheco \space Robles}$$
@@ -11,7 +11,7 @@ $${\color{slateblue}Universidad \space Politécnica \space Del \space Estado \sp
 $${\color{slateblue}Los \space fundamentos \space de \space la \space programación \space nos \space ayudan \space a \space fomentar \space la \space buena \space praxis}$$
 $${\color{slateblue}y \space conocer \space aquello \space que \space es \space necesario \space para \space lidiar \space materias \space más \space avanzadas.}$$
 
-$${\color{slateblue}⚠El \space símbolo \space de \space eslabón \space (🔗) \space debe \space llevarle \space a \space la \space respectiva \space carpeta⚠.}$$
+$${\color{slateblue}⚠El \space símbolo \space de \space eslabón \space (🔗) \space debe \space llevarle \space a \space la \space respectiva \space carpeta⚠}$$
 #
 
 # $${\color{slateblue}Unidad \space 1}$$ [ 🔗 ](https://github.com/W1nso1/FundProgr_UPEN_AP/tree/main/U1%20)
