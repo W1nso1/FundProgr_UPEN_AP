@@ -10,6 +10,8 @@ $${\color{purple}Ingeniería \space \color{purple}en \space \color{purple}Tecnol
 
 $${\color{purple}Enero \space \color{purple}- \space \color{purple}Abril \space \color{purple}// \space \color{purple}Primer \space \color{purple}Cuatrimestre}$$
 
+$${\color{purple}Universidad \space \color{purple}Politécnica \space \color{purple}Del \space \color{purple}Estado \space \color{purple}De \space \color{purple}Nayarit}$$
+
 Four-month period:
 University:
 
