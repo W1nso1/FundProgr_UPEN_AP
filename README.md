@@ -14,7 +14,10 @@ $${\color{slateblue}Los \space fundamentos \space de \space la \space programaci
 $${\color{slateblue}y \space conocer \space aquello \space que \space es \space necesario \space para \space lidiar \space con \space materias \space más \space avanzadas.}$$
 
 $${\color{slateblue}⚠El \space símbolo \space de \space eslabón \space (🔗) \space debe \space llevarle \space a \space la \space respectiva \space carpeta⚠}$$
-#
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/24/76/55/24765528562887702b42c097ea57bc1c.gif" />
+</p>
 
 # $${\color{slateblue}Unidad \space 1}$$ [ 🔗 ](https://github.com/W1nso1/FundProgr_UPEN_AP/tree/main/U1%20)
 $${\color{slateblue}Esta \space unidad \space sirvió \space para \space conocer \space y \space aplicar \space lo \space que \space es \space un \space algoritmo,\space además \space de \space utilizar \space matemática}$$
