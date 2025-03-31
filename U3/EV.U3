@@ -27,27 +27,27 @@ SubProceso SalarioBruto(Horas, Tarifa)
 	SBruto = Horas * Tarifa
 	//Regresamos texto por motivo de evitar perdidas de variables, ésto se repite en todos los subprocesos.
 	Escribir  ""
-	Escribir  "Su salario bruto consta de: " SBruto
+	Escribir  "Su salario bruto consta de: $" SBruto
 	//Brinco al proceso que dará pie al siguiente paso del algoritmo, ésto se repite de forma directa hacia abajo en el algoritmo.
 	Impuestos(SBruto)
 FinSubProceso
 
 SubProceso Impuestos(SBruto)
 	Imp = SBruto * 0.15
-	Escribir  "El descuento de impuestos es de: " Imp
+	Escribir  "El descuento de impuestos es de: $" Imp
 	SeguridadSocial(SBruto, Imp)
 FinSubProceso
 
 SubProceso SeguridadSocial(SBruto, Imp)
 	SS = SBruto * 0.10
-	Escribir  "Su seguridad social ha requerido un cobro de: " SS
+	Escribir  "Su seguridad social ha requerido un cobro de: $" SS
 	SalarioNeto(SBruto, Imp, SS)
 FinSubProceso
 
 SubProceso SalarioNeto(SBruto, Imp, SS)
 	Neto = SBruto - (SS + Imp)
 	Escribir  "==================================="
-	Escribir  "Le queda un salario neto de: " Neto
+	Escribir  "Le queda un salario neto de: $" Neto
 FinSubProceso
 
 Algoritmo Evaluación_U3
@@ -57,7 +57,7 @@ Algoritmo Evaluación_U3
 	//Obtención de datos
 	Escribir "Cantidad de horas trabajadas: "
 	Leer Horas
-	Escribir "Introducir su tarifa asignada por hora: "
+	Escribir "Introducir su tarifa asignada por hora: $"
 	Leer Tarifa
 	
 	//El proceso que nos servirá de llave, con las variables que requiere.
