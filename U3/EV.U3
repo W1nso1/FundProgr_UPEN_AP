@@ -1,0 +1,81 @@
+1. Un contratista necesita calcular el salario de sus trabajadores. El cálculo del salario se realiza tomando en cuenta las siguientes
+condiciones:
+a. Salario Bruto: El salario bruto se calcula multiplicando las horas trabajadas por la tarifa por hora del trabajador.
+b. Descuento de Impuestos: Se debe aplicar un descuento del 15% al salario bruto por concepto de impuestos.
+c. Descuento de Seguridad Social: Se debe aplicar un descuento del 10% al salario bruto por concepto de seguridad social.
+d. Salario Neto: El salario neto se obtiene restando los descuentos de impuestos y seguridad social al salario bruto.
+2. Requisitos:
+a. El sistema debe solicitar al usuario el número de horas trabajadas y la tarifa por hora.
+b. El sistema debe calcular el salario bruto multiplicando las horas trabajadas por la tarifa por hora.
+c. El sistema debe calcular el descuento de impuestos como el 15% del salario bruto.
+d. El sistema debe calcular el descuento de seguridad social como el 10% del salario bruto.
+e. El sistema debe calcular el salario neto restando los descuentos de impuestos y seguridad social del salario bruto.
+f. El sistema debe mostrar el salario bruto, el descuento de impuestos, el descuento de seguridad social y el salario neto.
+3. Instrucciones:
+a. Subalgoritmos:
+i. Deberás utilizar subalgoritmos para calcular el salario bruto, los descuentos de impuestos y seguridad social, y el
+salario neto. Cada uno de estos cálculos debe ser realizado mediante una función o procedimiento independiente.
+b. Entrada de Datos:
+i. Solicita al usuario ingresar el número de horas trabajadas y la tarifa por hora.
+c. Salida de Datos:
+i. Muestra el salario bruto, el descuento de impuestos, el descuento de seguridad social y el salario neto en pantalla.
+ii. Formato de respuesta:
+iii. Escribe el pseudocódigo que resuelva este problema utilizando subalgoritmos.
+
+SubProceso SalarioBruto(Horas, Tarifa)
+	//La calculadora de salario bruto, base del algoritmo junto con los datos anteriores.
+	SBruto = Horas * Tarifa
+	//Regresamos texto por motivo de evitar perdidas de variables, ésto se repite en todos los subprocesos.
+	Escribir  ""
+	Escribir  "Su salario bruto consta de: " SBruto
+	//Brinco al proceso que dará pie al siguiente paso del algoritmo, ésto se repite de forma directa hacia abajo en el algoritmo.
+	Impuestos(SBruto)
+FinSubProceso
+
+SubProceso Impuestos(SBruto)
+	Imp = SBruto * 0.15
+	Escribir  "El descuento de impuestos es de: " Imp
+	SeguridadSocial(SBruto, Imp)
+FinSubProceso
+
+SubProceso SeguridadSocial(SBruto, Imp)
+	SS = SBruto * 0.10
+	Escribir  "Su seguridad social ha requerido un cobro de: " SS
+	SalarioNeto(SBruto, Imp, SS)
+FinSubProceso
+
+SubProceso SalarioNeto(SBruto, Imp, SS)
+	Neto = SBruto - (SS + Imp)
+	Escribir  "==================================="
+	Escribir  "Le queda un salario neto de: " Neto
+FinSubProceso
+
+Algoritmo Evaluación_U3
+	//Dejamos la linea inferior como comentario por motivo de fácil acceso en caso de ser necesario.
+	//Definir Horas, Tarifa, SBruto, Imp, SS, Neto Como Real
+	
+	//Obtención de datos
+	Escribir "Cantidad de horas trabajadas: "
+	Leer Horas
+	Escribir "Introducir su tarifa asignada por hora: "
+	Leer Tarifa
+	
+	//El proceso que nos servirá de llave, con las variables que requiere.
+	SalarioBruto(Horas, Tarifa)
+	//Fin del algoritmo.
+	Escribir "Muchas gracias por usar nuestro servicio."
+FinAlgoritmo
+
+*** Ejecución Iniciada. ***
+Cantidad de horas trabajadas:
+> 10
+Introducir su tarifa asignada por hora:
+> 10
+
+Su salario bruto consta de: 100
+El descuento de impuestos es de: 15
+Su seguridad social ha requerido un cobro de: 10
+===================================
+Le queda un salario neto de: 75
+Muchas gracias por usar nuestro servicio.
+*** Ejecución Finalizada. ***
